@@ -1,0 +1,138 @@
+{
+  "common": {
+    "appName": "Soundmatch",
+    "tagline": "Musik verbindet. Proximity macht es real.",
+    "loading": "Laden...",
+    "close": "Schliessen",
+    "back": "Zurück",
+    "next": "Weiter",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "online": "online",
+    "away": "Abwesend entfernt",
+    "meters": "{distance}m entfernt",
+    "kilometers": "{distance}km entfernt"
+  },
+  "landing": {
+    "hero": {
+      "title": "Finde Menschen mit derselben musikalischen DNA",
+      "subtitle": "Soundmatch verbindet dich mit Gleichgesinnten – basierend auf deinem echten Musikgeschmack. In deiner Nähe und weltweit.",
+      "cta": "Jetzt starten",
+      "waitlist": "{count} auf der Warteliste",
+      "location": "Zürich · Beta 2026"
+    },
+    "features": {
+      "match": { "title": "Match-Score", "desc": "Algorithmus berechnet deine musikalische Übereinstimmung mit anderen Nutzern in Prozent." },
+      "radar": { "title": "Musik-Radar", "desc": "Live-Karte zeigt dir wer in deiner Nähe was hört – in Echtzeit." },
+      "radio": { "title": "Lokalradio", "desc": "Teile was du hörst – nur Metadaten, kein Audio. Song öffnet sich im eigenen Streaming-Dienst." },
+      "creator": { "title": "Creator-Bühne", "desc": "Die erste native Plattform für Musik-Kuratoren. Follower aufbauen, Hörerschaft entwickeln." }
+    },
+    "privacy": {
+      "title": "Datenschutz ist kein Luxusgut",
+      "desc": "4 Privacy-Stufen – alle gratis. Kein Pay-to-Privacy. DSG-konform.",
+      "levels": {
+        "open": "Offen",
+        "selective": "Selektiv",
+        "anonymous": "Anonym",
+        "invisible": "Unsichtbar"
+      }
+    }
+  },
+  "onboarding": {
+    "splash": {
+      "title": "Soundmatch",
+      "subtitle": "Finde Menschen mit derselben musikalischen DNA – in deiner Nähe und weltweit.",
+      "cta": "Jetzt starten →",
+      "waitlist": "1'247 auf der Warteliste · Zürich · Beta 2026"
+    },
+    "hook": {
+      "title1": "50 Meter entfernt.",
+      "title2": "Derselbe Song.",
+      "desc": "Das ist der Soundmatch-Moment. Musik als Brücke zu Menschen, die du noch nicht kennst."
+    },
+    "connect": {
+      "title": "Verbinde Spotify",
+      "desc": "Nur Metadaten – kein Audio, keine SUISA-Pflicht. Du behältst die volle Kontrolle.",
+      "scanning": "ANALYSIERE HÖRVERLAUF...",
+      "done": "ANALYSE ABGESCHLOSSEN",
+      "points": {
+        "metadata": "Nur Metadaten (Titel, Artist, Genre)",
+        "noAudio": "Kein Audio-Streaming, keine Lizenzen",
+        "privacy": "4 Datenschutz-Stufen – du wählst",
+        "delete": "Vollständiges Löschrecht jederzeit"
+      }
+    },
+    "match": {
+      "found": "ERSTER MATCH GEFUNDEN",
+      "title": "Du & {name}",
+      "listening": "hört gerade",
+      "share": "{score}% Match als Story teilen"
+    },
+    "privacy": {
+      "title": "Deine Sichtbarkeit",
+      "desc": "Jederzeit änderbar. Kein Pay-to-Privacy – alle Stufen gratis für alle.",
+      "cta": "Bereit – App öffnen →",
+      "levels": {
+        "open": { "label": "Offen", "desc": "Song, Profil & exakter Standort für alle sichtbar" },
+        "selective": { "label": "Selektiv", "desc": "Gewählte Infos · Standort ca. 500m unscharf" },
+        "anonymous": { "label": "Anonym", "desc": "Kein Name, kein Bild · Standort ca. 1km unscharf" },
+        "invisible": { "label": "Unsichtbar", "desc": "Komplett unsichtbar – du siehst andere, dich niemand" }
+      }
+    }
+  },
+  "nav": {
+    "radar": "Radar",
+    "matches": "Match",
+    "radio": "Radio",
+    "creators": "Creator",
+    "profile": "Profil"
+  },
+  "radar": {
+    "nearby": "IN DER NÄHE",
+    "events": "EVENTS IN DER NÄHE",
+    "filters": { "all": "Alle", "visible": "{count} sichtbar" },
+    "viewMatch": "Match ansehen"
+  },
+  "matches": {
+    "title": "DEINE MATCHES",
+    "whyMatch": "WARUM PASSEN WIR?",
+    "sharedArtists": "GEMEINSAME KÜNSTLER",
+    "genreDna": "GENRE-DNA",
+    "noShared": "Keine direkten Überschneidungen",
+    "sharedArtistsCount": "{count} gemeinsame Künstler",
+    "sharedGenres": "{genres} – geteilte Genres",
+    "listeningHabits": "Ähnliche Hörgewohnheiten & Zeitstempel",
+    "message": "Nachricht",
+    "shareStory": "Story"
+  },
+  "radio": {
+    "title": "LOKALE KANÄLE",
+    "listening": "{count} hören zu",
+    "startChannel": "Eigenen Kanal starten",
+    "startDesc": "Teile was du hörst – nur Metadaten, kein Audio-Upload, keine Lizenzpflicht",
+    "goLive": "Live gehen"
+  },
+  "creators": {
+    "title": "CREATOR BÜHNE",
+    "subtitle": "Musik-Kuratoren",
+    "desc": "Die erste native Plattform für Musik-Kuratoren – Follower aufbauen, Hörerschaft entwickeln, Curation-Geschichte zeigen.",
+    "topCreators": "TOP CREATORS · ZÜRICH",
+    "follow": "Folgen",
+    "following": "Folge",
+    "become": "Werde Creator",
+    "becomeDesc": "Baue deine Hörerschaft auf. Teile deinen Musikgeschmack. Zeige deine Curation-Geschichte."
+  },
+  "profile": {
+    "stats": { "matches": "Matches", "avgScore": "Ø Score", "listeners": "Hörer" },
+    "visibility": "Sichtbarkeit",
+    "topArtists": "Top-Künstler",
+    "restartDemo": "Demo neu starten"
+  },
+  "auth": {
+    "loginWith": "Mit {provider} anmelden",
+    "logout": "Abmelden",
+    "connectSpotify": "Mit Spotify verbinden",
+    "connectApple": "Apple Music",
+    "connectDeezer": "Deezer"
+  }
+}

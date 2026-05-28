@@ -1,0 +1,138 @@
+{
+  "common": {
+    "appName": "Soundmatch",
+    "tagline": "Music connects. Proximity makes it real.",
+    "loading": "Loading...",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "cancel": "Cancel",
+    "online": "online",
+    "away": "Away",
+    "meters": "{distance}m away",
+    "kilometers": "{distance}km away"
+  },
+  "landing": {
+    "hero": {
+      "title": "Find people with the same musical DNA",
+      "subtitle": "Soundmatch connects you with like-minded people – based on your real music taste. Nearby and worldwide.",
+      "cta": "Get started",
+      "waitlist": "{count} on the waitlist",
+      "location": "Zurich · Beta 2026"
+    },
+    "features": {
+      "match": { "title": "Match Score", "desc": "Algorithm calculates your musical compatibility with other users in percent." },
+      "radar": { "title": "Music Radar", "desc": "Live map shows you who's listening to what nearby – in real time." },
+      "radio": { "title": "Local Radio", "desc": "Share what you're listening to – metadata only, no audio. Song opens in your streaming service." },
+      "creator": { "title": "Creator Stage", "desc": "The first native platform for music curators. Build followers, grow your audience." }
+    },
+    "privacy": {
+      "title": "Privacy is not a luxury",
+      "desc": "4 privacy levels – all free. No pay-to-privacy. GDPR compliant.",
+      "levels": {
+        "open": "Open",
+        "selective": "Selective",
+        "anonymous": "Anonymous",
+        "invisible": "Invisible"
+      }
+    }
+  },
+  "onboarding": {
+    "splash": {
+      "title": "Soundmatch",
+      "subtitle": "Find people with the same musical DNA – nearby and worldwide.",
+      "cta": "Get started →",
+      "waitlist": "1,247 on the waitlist · Zurich · Beta 2026"
+    },
+    "hook": {
+      "title1": "50 meters away.",
+      "title2": "Same song.",
+      "desc": "That's the Soundmatch moment. Music as a bridge to people you haven't met yet."
+    },
+    "connect": {
+      "title": "Connect Spotify",
+      "desc": "Metadata only – no audio, no licensing issues. You keep full control.",
+      "scanning": "ANALYZING LISTENING HISTORY...",
+      "done": "ANALYSIS COMPLETE",
+      "points": {
+        "metadata": "Metadata only (title, artist, genre)",
+        "noAudio": "No audio streaming, no licenses",
+        "privacy": "4 privacy levels – you choose",
+        "delete": "Full right to delete anytime"
+      }
+    },
+    "match": {
+      "found": "FIRST MATCH FOUND",
+      "title": "You & {name}",
+      "listening": "currently listening",
+      "share": "{score}% match – share as story"
+    },
+    "privacy": {
+      "title": "Your Visibility",
+      "desc": "Change anytime. No pay-to-privacy – all levels free for everyone.",
+      "cta": "Ready – open app →",
+      "levels": {
+        "open": { "label": "Open", "desc": "Song, profile & exact location visible to all" },
+        "selective": { "label": "Selective", "desc": "Selected info · Location ~500m fuzzy" },
+        "anonymous": { "label": "Anonymous", "desc": "No name, no photo · Location ~1km fuzzy" },
+        "invisible": { "label": "Invisible", "desc": "Completely invisible – you see others, no one sees you" }
+      }
+    }
+  },
+  "nav": {
+    "radar": "Radar",
+    "matches": "Match",
+    "radio": "Radio",
+    "creators": "Creator",
+    "profile": "Profile"
+  },
+  "radar": {
+    "nearby": "NEARBY",
+    "events": "EVENTS NEARBY",
+    "filters": { "all": "All", "visible": "{count} visible" },
+    "viewMatch": "View match"
+  },
+  "matches": {
+    "title": "YOUR MATCHES",
+    "whyMatch": "WHY DO WE MATCH?",
+    "sharedArtists": "SHARED ARTISTS",
+    "genreDna": "GENRE DNA",
+    "noShared": "No direct overlaps",
+    "sharedArtistsCount": "{count} shared artists",
+    "sharedGenres": "{genres} – shared genres",
+    "listeningHabits": "Similar listening habits & timestamps",
+    "message": "Message",
+    "shareStory": "Story"
+  },
+  "radio": {
+    "title": "LOCAL CHANNELS",
+    "listening": "{count} listening",
+    "startChannel": "Start your channel",
+    "startDesc": "Share what you listen to – metadata only, no audio upload, no licensing",
+    "goLive": "Go live"
+  },
+  "creators": {
+    "title": "CREATOR STAGE",
+    "subtitle": "Music Curators",
+    "desc": "The first native platform for music curators – build followers, grow your audience, show your curation history.",
+    "topCreators": "TOP CREATORS · ZURICH",
+    "follow": "Follow",
+    "following": "Following",
+    "become": "Become a Creator",
+    "becomeDesc": "Build your audience. Share your music taste. Show your curation history."
+  },
+  "profile": {
+    "stats": { "matches": "Matches", "avgScore": "Avg Score", "listeners": "Listeners" },
+    "visibility": "Visibility",
+    "topArtists": "Top Artists",
+    "restartDemo": "Restart demo"
+  },
+  "auth": {
+    "loginWith": "Sign in with {provider}",
+    "logout": "Sign out",
+    "connectSpotify": "Connect Spotify",
+    "connectApple": "Apple Music",
+    "connectDeezer": "Deezer"
+  }
+}
